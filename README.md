@@ -1,4 +1,4 @@
-This was a case study assignment to use Excel to perform a statistics case study of Southern Water Corp.
+This was a case study assignment to use Excel to perform a Descriptive Statistical case study of Southern Water Corp.
 
 Below is a link to the Excel file:
 
